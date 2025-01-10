@@ -1,0 +1,20 @@
+*wallet.json
+node_modules/
+
+
+# Ignore the target directory
+target/
+
+# Ignore Cargo.lock for libraries (optional, include for binaries)
+/Cargo.lock
+
+# Ignore specific IDE files and settings
+.idea/
+.vscode/
+
+# Optional: ignore build logs
+*.log
+
+# Optional: ignore OS-specific files
+.DS_Store
+Thumbs.db
