@@ -1,3 +1,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/solana-turbin3/solana-starter
+[submodule "gamefi-collect-marketplace"]
+	path = gamefi-collect-marketplace
+	url = https://github.com/parikshitlfj12/gamefi-collect-marketplace
